@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 997;
   transition: all 0.5s;
   /*background: rgba(42, 44, 57, 0.9);*/
-  background-color: #c3c3c3;
+  background-color: #7f7f7f;
 }
 
 /*#header.header-transparent {
@@ -130,10 +130,11 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
   border-radius: 50px;
   font-family: "Open Sans", sans-serif;
+  margin-top: -7px;
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  background: #406ae0;
+/*  background: #406ae0;*/
   text-decoration: none;
 }
 
